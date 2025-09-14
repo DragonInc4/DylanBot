@@ -7,5 +7,12 @@
 ![GitHub](https://img.shields.io/github/license/dragoninc4/dylanbot)
 ![GitHub Repo stars](https://img.shields.io/github/stars/OkulusDev/Oxygen)
 ![GitHub issues](https://img.shields.io/github/issues/dragoninc4/dylanbot)
-!
-Документация проекта скоро будет готова, и вы можете делать свои модули!
+
+Вот как нужно вызвать бота:
+![logo](./Screenshot_20250914-150726.jpg)
+После написание @dylnbot вы можете написать команду, к примеру @dylnbot меню
+
+также очень рекомендую настроить время
+@dylnbot время 15:20
+если вы хотите сделать свою команду то смело заходите [документацию](https://github.com/DragonInc4/DylanBot/blob/main/docs.md)
+Она очень простая и уже там все функции готовы
