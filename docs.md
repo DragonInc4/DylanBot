@@ -75,6 +75,10 @@ await save(user_id, "klik_balance", balance)
     - key: Название переменной в базе данных.
     - value: Значение, которое нужно сохранить.
     """
+await edit(chosen, text, parse_mode=None, photo=None, markup=None):
+
+await timeuser(user_id: int) -> datetime:
+    """Возвращает текущее время, смещенное по часовому поясу пользователя."""
 ```
 # Клавиатура в боте — просто, если знать формат моего бота
 ### ВАЖНО: callback_data = названиекоманды_данные_данные2_userid
