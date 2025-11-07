@@ -1,24 +1,45 @@
 # DylanBot
+## Проект не поддерживатся! ИИ можно найти только в [юзерботе](https://github.com/DragonInc4/DylanUserBot/tree/main)
+
+
+
+че ты дальше читаешь
+
+
+
+
+
 Многофункциональный модульный инлайн бот прямо в Телеграме.
-Проект не поддерживатся! ИИ можно найти только в [юзерботе](https://github.com/DragonInc4/DylanUserBot/tree/main)
+[Вот ботик](t.me/dylnbot)              
+![Static Badge](https://img.shields.io/badge/dragoninc4-dylanbot-dylanbot)               
+![GitHub top language](https://img.shields.io/github/languages/top/dragoninc4/dylanbot)                 
+![GitHub](https://img.shields.io/github/license/dragoninc4/dylanbot)                                            
+![GitHub issues](https://img.shields.io/github/issues/dragoninc4/dylanbot)                                       
 
+## 📌 Как пользоваться DylanBot
 
+### 1. Вызов бота
+После написания `@dylnbot` можно добавить команду, например:  
+`@dylnbot меню`  
 
+<p align="center">
+  <img src="./Screenshot_20250914-150726.jpg" alt="Вызов бота" width="300"/>
+</p>
 
-[Вот ботик](t.me/dylnbot)
-![Static Badge](https://img.shields.io/badge/dragoninc4-dylanbot-dylanbot)
-![GitHub top language](https://img.shields.io/github/languages/top/dragoninc4/dylanbot)
-![GitHub](https://img.shields.io/github/license/dragoninc4/dylanbot)
-![GitHub Repo stars](https://img.shields.io/github/stars/OkulusDev/Oxygen)
-![GitHub issues](https://img.shields.io/github/issues/dragoninc4/dylanbot)
+### 2. Вывод команды `меню`
+<p align="center">
+  <img src="./Screenshot_20250914-152352.jpg" alt="Меню" width="300"/>
+</p>
 
-Вот как нужно вызвать бота:
-![logo](./Screenshot_20250914-150726.jpg)
-После написание @dylnbot вы можете написать команду, к примеру @dylnbot меню
-![menu](./Screenshot_20250914-152352.jpg)
-Вывод команды меню
-![menuvivod](./Screenshot_20250914-152430.jpg)
-также очень рекомендую настроить время
-@dylnbot время 15:20
-если вы хотите сделать свою команду то смело заходите [документацию](https://github.com/DragonInc4/DylanBot/blob/main/docs.md)
-Она очень простая и уже там все функции готовы
+### 3. Пример результата
+<p align="center">
+  <img src="./Screenshot_20250914-152430.jpg" alt="Вывод меню" width="300"/>
+</p>
+
+### 4. Настройка времени
+Рекомендуется задать своё время:  
+`@dylnbot время 15:20`
+
+### 5. Создание своих команд
+Вы можете легко добавить свои команды, следуя [документации](https://github.com/DragonInc4/DylanBot/blob/main/docs.md). Она простая, а все функции уже готовы.
+
