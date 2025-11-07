@@ -1,6 +1,10 @@
 # DylanBot
 Многофункциональный модульный инлайн бот прямо в Телеграме.
-а еще бесплатный ии благодаря [pollination](https://github.com/pollinations/pollinations)
+Проект не поддерживатся! ИИ можно найти только в [юзерботе](https://github.com/DragonInc4/DylanUserBot/tree/main)
+
+
+
+
 [Вот ботик](t.me/dylnbot)
 ![Static Badge](https://img.shields.io/badge/dragoninc4-dylanbot-dylanbot)
 ![GitHub top language](https://img.shields.io/github/languages/top/dragoninc4/dylanbot)
